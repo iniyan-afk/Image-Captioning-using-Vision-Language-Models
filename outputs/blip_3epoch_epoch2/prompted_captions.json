@@ -1,0 +1,34 @@
+{
+  "images": [
+    "coco_data\\val2017\\000000301061.jpg",
+    "coco_data\\val2017\\000000261982.jpg",
+    "coco_data\\val2017\\000000273760.jpg",
+    "coco_data\\val2017\\000000248400.jpg"
+  ],
+  "captions": {
+    "unprompted": [
+      "an elephant jumps into the open door of a truck.",
+      "a person jumping a skate board in the air",
+      "a man in blue shirt and white shorts playing a game of tennis.",
+      "a man pointing at a pizza in a box with a message written on it."
+    ],
+    "a photography of": [
+      "a photography of an elephant in a garage.",
+      "a photography of a person doing a trick on a skateboard.",
+      "a photography of a tennis player on the court.",
+      "a photography of a man opening a box of pizza."
+    ],
+    "a close up of": [
+      "a close up of an elephant in a truck with hay",
+      "a close up of a person on a skateboard doing a trick",
+      "a close up of a tennis player on a court with a racket",
+      "a close up of a person opening a pizza box"
+    ],
+    "two people": [
+      "two people looking at an elephant in a barn.",
+      "two people doing tricks on skateboards in a parking lot.",
+      "two people playing tennis on a grass court.",
+      "two people sitting in a kitchen with a pizza in a box."
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "images": [
+    "coco_data\\val2017\\000000301061.jpg",
+    "coco_data\\val2017\\000000261982.jpg",
+    "coco_data\\val2017\\000000273760.jpg",
+    "coco_data\\val2017\\000000248400.jpg"
+  ],
+  "captions": {
+    "unprompted": [
+      "a man standing next to an elephant in a truck",
+      "a man riding a skateboard down a street",
+      "a man holding a tennis racket on a tennis court",
+      "a pizza box with writing on it"
+    ],
+    "a photography of": [
+      "a photography of a man feeding an elephant out of a truck",
+      "a photography of a skateboarder doing a trick",
+      "a photography of a tennis player on a tennis court",
+      "a photography of a man in a kitchen with a box of pizza"
+    ],
+    "a picture of": [
+      "a picture of an elephant in a truck",
+      "a picture of a person doing a trick on a skateboard",
+      "a picture of a man playing tennis",
+      "a picture of a man sitting on the kitchen counter"
+    ],
+    "a close up of": [
+      "a close up of an elephant in the back of a truck",
+      "a close up of a person on a skateboard",
+      "a close up of a tennis player holding a racket",
+      "a close up of a pizza box with a pizza written on it"
+    ]
+  }
+}
