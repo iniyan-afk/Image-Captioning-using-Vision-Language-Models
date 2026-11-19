@@ -1,0 +1,34 @@
+{
+  "images": [
+    "coco_data\\val2017\\000000392933.jpg",
+    "coco_data\\val2017\\000000520324.jpg",
+    "coco_data\\val2017\\000000014473.jpg",
+    "coco_data\\val2017\\000000430073.jpg"
+  ],
+  "captions": {
+    "unprompted": [
+      "a giraffe walking across a lush green field.",
+      "a small plane sitting on top of a tarmac.",
+      "there is a train that is on the tracks",
+      "a cow standing in the middle of a street."
+    ],
+    "a photography of": [
+      "a photography of a giraffe walking across a lush green field.",
+      "a photography of a plane parked next to a field.",
+      "a photography of a train on a train track.",
+      "a photography of a cow standing in the middle of a street."
+    ],
+    "a close up of": [
+      "a close up of a giraffe walking on a field",
+      "a close up of a plane parked on a runway",
+      "a close up of a train on a track",
+      "a close up of a cow on a street"
+    ],
+    "two people": [
+      "two people and a giraffe walking across a lush green field.",
+      "two people standing next to a small plane.",
+      "two people standing on a train track next to a train.",
+      "two people and a white cow standing in the street."
+    ]
+  }
+}
